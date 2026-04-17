@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:viren.vs93@gmail.com">Email</a> •
-  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/virendra-singh-33a7b9218/">LinkedIn</a> •
   <a href="https://github.com/virrnnn">GitHub</a>
 </p>
 
